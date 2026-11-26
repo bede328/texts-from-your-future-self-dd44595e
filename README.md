@@ -1,8 +1,8 @@
 # Texts From Your Future Self
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-motasimfuad-texts-from-your-future-self-dd44595e)
-[![make.fun entry](https://img.shields.io/badge/make.fun-entry-green)](https://make.fun/c/u-motasimfuad-texts-from-your-future-self-dd44595e)
-[![license: MIT](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
+[![make.fun · u-motasimfuad-texts-from-your-future-self-dd44595e](https://make.fun/badge/u-motasimfuad-texts-from-your-future-self-dd44595e.svg)](https://make.fun/bounty/u-motasimfuad-texts-from-your-future-self-dd44595e?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-texts-from-your-future-self-dd44595e)
+[![rank](https://make.fun/badge/u-motasimfuad-texts-from-your-future-self-dd44595e/bede328/texts-from-your-future-self-dd44595e/rank.svg)](https://make.fun/bounty/u-motasimfuad-texts-from-your-future-self-dd44595e/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-texts-from-your-future-self-dd44595e)
+[![reward](https://make.fun/badge/u-motasimfuad-texts-from-your-future-self-dd44595e/bede328/texts-from-your-future-self-dd44595e/reward.svg)](https://make.fun/bounty/u-motasimfuad-texts-from-your-future-self-dd44595e?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-texts-from-your-future-self-dd44595e)
 
 Entry for the make.fun competition
 [Texts From Your Future Self](https://make.fun/c/u-motasimfuad-texts-from-your-future-self-dd44595e)
